@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPermission</string>
+    <string name="permission_location_rationale">We need you to confirm location permission request</string>
+    <string name="permission_location_reject">Go to settings to open permission of location</string>
+    <string name="permission_contact_rationale">We need you to confirm contacts permission request</string>
+    <string name="permission_contact_reject">Go to settings to open permission of contacts</string>
+</resources>
